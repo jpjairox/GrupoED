@@ -11,26 +11,7 @@ public class Cociente {
 	 * @author Alberto
 	 * @version 1.0
 	 */
-	    /* Primer numero real para el cociente con reales (Divisor)
-	     */
-	    private float real1;
-	    /* Segundo numero real para el cociente con reales (Dividendo)
-	     */
-	    private float real2;
-	    /* Primer numero real para el cociente con enteros (Divisor)
-	     */
-	    private int ent1;
-	    /* Segundo numero real para el cociente con enteros (Dividendo)
-	     */
-	    private int ent2;
-	    /* Numero real para calcular el inverso de ese numero
-	     */
-	    private float inv1;
-	    /* Numero real para calcular la raiz de ese numero
-	     */
-	    private float raiz1;
-	    private float raiz3;
-
+	    
 	    /** 
 	     * Metodo constructor que recibe parametros
 	     * @param real1 Representa el primer numero real para el cociente de numeros reales (Divisor)
@@ -66,7 +47,7 @@ public class Cociente {
 	    /**
 	     *  Metodo para resolver el cociente de numeros enteros
 	     * Casos especiales: Si el segundo numero a dividir (Dividendo) es 0, no se podria hacer ya que daria una indeterminacion
-	     * Si la division da como resultado un numero que no es exacto se hariaa una aproximacion al numero entero mas proximo
+	     * Si la division da como resultado un numero que no es exacto se hariaa una aproximacion al numero entero mas cercano
 	     * @param ent1 Representa el primer numero entero para el cociente de enteros (Divisor)
 	     * @param ent2 Representa el segundo numero entero para el cociente de enteros (Dividendo)
 	     * @return resultado Representa el resulado del cociente de reales
