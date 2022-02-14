@@ -73,12 +73,12 @@ public class Suma {
 	
 	/**
 	 *Método que añade al valor de un contador cualquier número <b>real</b> que se le pasan cómo paramentro.
-	 *El valor del contados se puede modificar con el setter <b>setEntero()</b> y obtener con el getter <b>getEntero()</b> . 
+	 *El valor del contador se puede modificar con el setter <b>setEntero()</b> y obtener con el getter <b>getEntero()</b> . 
 	 * 
 	 * @param n1 representa el número que se quiere sumar al contador.
 	 */
-	public void sumaValorAcumulado(double n1) {
-		//TODO
+	public void sumaValorAcumulado(int n1) {
+		this.entero=this.entero+n1;
 	}
 	
 }
