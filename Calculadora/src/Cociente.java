@@ -29,6 +29,7 @@ public class Cociente {
 	    /* Numero real para calcular la raiz de ese numero
 	     */
 	    private float raiz1;
+	    private float raiz3;
 
 	    /** 
 	     * Metodo constructor que recibe parametros
@@ -51,7 +52,7 @@ public class Cociente {
 	    /** 
 	     * Metodo para resolver el cociente de numeros reales 
 	     * Casos especiales: Si el segundo numero a dividir (Dividendo) es 0, no se podria hacer ya que daria una indeterminacion.
-	     * Si la division no da un numero exacto
+	     * Si la division no da un numero exacto redondea al tipo de dato que es entero
 	     * @param real1 Representa el primer numero real para la division (Divisor)
 	     * @param real2 Representa el segundo numero real para la division (Dividendo)
 	     * @return resultado Representa el resulado del cociente de reales
