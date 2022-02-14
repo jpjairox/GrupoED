@@ -37,8 +37,8 @@ public class Suma {
 	 * @return devuelve un <b>real</b> que es la suma de los parámetros <b>n1</b> y <b>n2</b>.
 	 */
 	public double sumaDosNumerosReales(double n1,double n2) {
-		//TODO
 		double resultado = 0;
+		resultado = n1 + n2;
 		return resultado;
 	}
 		
@@ -51,8 +51,8 @@ public class Suma {
 	 * @return devuelve un <b>entero</b> que es la suma de los parámetros <b>n1</b> y <b>n2</b>.
 	 */
 	public int sumaDosNumerosEnteros(int n1,int n2) {
-		//TODO
 		int resultado = 0;
+		resultado = n1 + n2;
 		return resultado;
 	}
 	
