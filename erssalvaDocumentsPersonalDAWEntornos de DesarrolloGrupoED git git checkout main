@@ -1,0 +1,35 @@
+[33mcommit de6314c04cde723c869d5e6d87cb9f035539385b[m[33m ([m[1;36mHEAD -> [m[1;32msuma[m[33m)[m
+Author: Salvador.Estorch <salvadorestorch@gmail.com>
+Date:   Mon Feb 14 23:09:51 2022 +0100
+
+    Implemento método sumaValorAcumulado().
+
+[33mcommit 810de2caad9244ab5e49baa2a8b3c3b24f104aef[m
+Author: Salvador.Estorch <salvadorestorch@gmail.com>
+Date:   Mon Feb 14 22:59:44 2022 +0100
+
+    Implementar método sumaTresNumerosReales().
+
+[33mcommit 0c4e855c81b5f233733d50ce5da761ba1085db08[m
+Author: Salvador.Estorch <salvadorestorch@gmail.com>
+Date:   Mon Feb 14 22:51:04 2022 +0100
+
+    Implemento el método sumaDosNumerosEnteros().
+
+[33mcommit d53c47c444d52f3a61a4aece928353ddffa33114[m
+Author: Salvador.Estorch <salvadorestorch@gmail.com>
+Date:   Mon Feb 14 22:38:33 2022 +0100
+
+    implemento método sumaDosNumerosReales()
+
+[33mcommit 7b8729914325c2ea29219b0c116fc4c9c653787e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: jpjairox <jpjairox@gmail.com>
+Date:   Fri Feb 11 18:09:38 2022 +0100
+
+    Añadido proyecto Calculadora de grupo
+
+[33mcommit 5631c1d7a1aedba251d35d3f16ac38aa306638f3[m
+Author: jpjairox <99355718+jpjairox@users.noreply.github.com>
+Date:   Thu Feb 10 23:19:31 2022 +0100
+
+    Initial commit
