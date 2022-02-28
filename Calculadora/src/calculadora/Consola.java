@@ -1,6 +1,8 @@
+package calculadora;
+
 /**
  * Esta clase sirve para realizar todo tipo de operaciones con las clases suma, resta, producto y cociente.
- * @author Salvador, Carlos, ALberto, Jairo
+ * @author Salvador, Carlos, Alberto, Jairo
  * @version 1.0
  */
 public class Consola {
@@ -12,7 +14,7 @@ public class Consola {
 		s.sumaDosNumerosEnteros(4, 7);
 		s.sumaTresNumerosReales(-5, 120, 3.14);
 		s.setReal(6.12);
-		s.sumaValorAcumulado(15.5);
+		s.sumaValorAcumulado(15);
 		s.getReal();
 		
 		/*-----RESTA-----*/

@@ -1,3 +1,4 @@
+package calculadora;
 /**
  * Esta clase sirve para restar números enteros o reales por separado así como para añadir números reales a un acumulador.
  * @author Jairo
@@ -76,11 +77,7 @@ public class Resta {
      * @param acumulado es la variable que guarda el valor acumulado 
      */
     public void restaAcum(double num) {
-    	double acumulado=0;
-    	while (acumulado>-10) {
-            acumulado=acumulado-num;
-    	}
-    	System.out.println(acumulado);
+    	this.real=this.real-num;
     }
     
 	  
