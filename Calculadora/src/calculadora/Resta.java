@@ -1,3 +1,4 @@
+package calculadora;
 /**
  * Esta clase sirve para restar números enteros o reales por separado así como para añadir números reales a un acumulador.
  * @author Jairo

@@ -1,3 +1,4 @@
+package calculadora;
 /* 
  * Esta clase es para hacer operaciones como divisiones con numeros reales y enteros,
  * inversos de un numero y raices cuadradas
