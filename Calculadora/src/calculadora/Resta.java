@@ -77,11 +77,7 @@ public class Resta {
      * @param acumulado es la variable que guarda el valor acumulado 
      */
     public void restaAcum(double num) {
-    	double acumulado=0;
-    	while (acumulado>-10) {
-            acumulado=acumulado-num;
-    	}
-    	System.out.println(acumulado);
+    	this.real=this.real-num;
     }
     
 	  
