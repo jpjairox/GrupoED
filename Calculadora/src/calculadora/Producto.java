@@ -1,3 +1,4 @@
+package calculadora;
 /**
  * Esta clase sirve para hacer multiplicaciones tanto de 2 números enteros, como de 2 o 3 números reales, y para hacer potencias.
  * @author Carlos Otazo
