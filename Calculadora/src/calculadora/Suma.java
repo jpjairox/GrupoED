@@ -1,3 +1,4 @@
+package calculadora;
 /**
  * Esta clase sirve para sumar números enteros o reales por separado así como para añadir números reales a un acumulador.
  * @author Salvador
@@ -9,8 +10,8 @@ public class Suma {
     private double real;
     
     public Suma() {
-    	this.entero=0;
-    	this.real=0.0;
+    	this.entero=entero;
+    	this.real=real;
     }
     
     public void setEntero(int entero) { //Usa "void" porque no necesita devolver ningún valor. Sólo modificarlo.

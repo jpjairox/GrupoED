@@ -1,6 +1,8 @@
+package calculadora;
+
 /**
  * Esta clase sirve para realizar todo tipo de operaciones con las clases suma, resta, producto y cociente.
- * @author Salvador, Carlos, ALberto, Jairo
+ * @author Salvador, Carlos, Alberto, Jairo
  * @version 1.0
  */
 public class Consola {
