@@ -12,7 +12,7 @@ public class Consola {
 		s.sumaDosNumerosEnteros(4, 7);
 		s.sumaTresNumerosReales(-5, 120, 3.14);
 		s.setReal(6.12);
-		s.sumaValorAcumulado(15.5);
+		s.sumaValorAcumulado(15);
 		s.getReal();
 		
 		/*-----RESTA-----*/
